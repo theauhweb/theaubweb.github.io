@@ -1,2 +1,2 @@
-# theaubweb.github.io
-The AUH's website.
+# theauhweb.github.io
+Website

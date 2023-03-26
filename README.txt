@@ -1,0 +1,1 @@
+This is the repository where the code for the AUH's website is held. You can view the website here: https://theauh.org/
