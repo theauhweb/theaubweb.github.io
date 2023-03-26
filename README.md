@@ -1,2 +1,0 @@
-# theauhweb.github.io
-Website
